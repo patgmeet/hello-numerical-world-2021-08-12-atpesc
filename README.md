@@ -29,7 +29,7 @@ To make the problem tractable for this lesson, we make some simplifying assumpti
 1. The only heat _source_ is from the initial and/or boundary conditions.
 1. We will deal only with the _one dimensional_ problem in _Cartesian coordinates_.
 
-In this case, the PDE our application needs to solve simplifies to...
+In this case, the PDE our application needs to solve simplifies to:
 
 | | |
 |:---:|:---:|
